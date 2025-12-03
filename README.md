@@ -1,0 +1,1 @@
+The purpose of this file is to create a TI compatible python file that can cross product with variables.  It does not simplify the expressions, other than correcting any signs. It is meant for checking the work done by hand.
